@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sphtd
 
-<details>
 
 ![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=sphtd&show_icons=true&theme=radical)
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sphtd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
